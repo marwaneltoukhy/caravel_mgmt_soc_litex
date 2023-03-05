@@ -102,3 +102,10 @@
 
 
 
+-v $(CARAVEL_PATH)/gl/empty_macro.v 		     
+-v $(CARAVEL_PATH)/gl/manual_power_connections.v 		     
+-v $(CARAVEL_PATH)/gl/copyright_block.v 		     
+-v $(CARAVEL_PATH)/gl/caravel_logo.v 		     
+-v $(CARAVEL_PATH)/gl/caravel_motto.v 		     
+-v $(CARAVEL_PATH)/gl/open_source.v 		     
+-v $(CARAVEL_PATH)/gl/user_id_textblock.v 
